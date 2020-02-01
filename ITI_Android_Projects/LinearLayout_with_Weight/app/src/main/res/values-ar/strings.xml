@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">LinearLayout_with_Weight</string>
+    <string name="one">واحد</string>
+    <string name="two">إثنان</string>
+    <string name="three">ثلاثة</string>
+    <string name="four">أربعة</string>
+</resources>

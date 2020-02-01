@@ -1,0 +1,4 @@
+#Sat Nov 30 17:42:01 EET 2019
+base.0=D\:\\flutter_projects\\destini-challenge-starting\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

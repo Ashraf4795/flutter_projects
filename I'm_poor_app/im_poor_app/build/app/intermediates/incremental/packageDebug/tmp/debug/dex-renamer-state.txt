@@ -1,0 +1,4 @@
+#Thu Oct 24 20:53:12 EET 2019
+base.0=D\:\\flutter_projects\\I'm_poor_app\\im_poor_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

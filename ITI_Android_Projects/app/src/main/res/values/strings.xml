@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="message">Message</string>
+    <string name="Next">Next</string>
+    <string name="close">Close</string>
+    <string name="phone_info">Phone Info</string>
+    <string name="message_info">Message Info</string>
+    <string name="previous">previous</string>
+    <string name="write_shared">write shared</string>
+    <string name="read_shared">read shared</string>
+    <string name="write_file">write file</string>
+    <string name="read_file">read file</string>
+    <string name="write_SQL">write SQL</string>
+    <string name="read_SQL">read SQL</string>
+
+</resources>

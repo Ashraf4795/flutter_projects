@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DynamicFragment</string>
+    <string name="hello_dynamic_fragment">Hello Dynamic Fragment</string>
+</resources>

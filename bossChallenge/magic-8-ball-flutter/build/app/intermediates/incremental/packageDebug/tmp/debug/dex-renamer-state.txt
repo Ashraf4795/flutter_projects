@@ -1,0 +1,4 @@
+#Fri Nov 15 13:17:22 EET 2019
+base.0=D\:\\flutter_projects\\bossChallenge\\magic-8-ball-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

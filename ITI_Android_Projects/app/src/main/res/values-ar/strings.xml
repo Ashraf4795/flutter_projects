@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">مرحبا</string>
+    <string name="mobile_number">رقم الهاتف</string>
+    <string name="message">الرسالة</string>
+    <string name="Next">التالي</string>
+    <string name="close">إغلاق</string>
+    <string name="phone_info">رقم الهاتف</string>
+    <string name="message_info">الرسالة</string>
+    <string name="previous">السابق</string>
+    <string name="write_shared">كتب في الشيرد</string>
+    <string name="read_shared">اقرأ من الشيرد</string>
+    <string name="write_file">اكتب في ملف</string>
+    <string name="read_file">إقرأ من ملف</string>
+    <string name="write_SQL">أكتب في قاعدة بيانات</string>
+    <string name="read_SQL">اقرأ من قاعدة البيانات</string>
+
+</resources>
